@@ -1,0 +1,120 @@
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+C:\Users\MONSTER\source\repos\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\Desktop\bir_kez_daha\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+C:\Users\MONSTER\Desktop\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+D:\Projeler\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+C:\Users\Büşra\Desktop\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe.config
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.exe
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\bin\Debug\bir_kez_daha.pdb
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csprojAssemblyReference.cache
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.anasayfa.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.cek_frm.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.ekle.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Form1.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.güncelle_sil.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kayit_ol.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.kredikarti.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.musteri_listele.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.nakit_frm.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.odeme.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.Properties.Resources.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.siparis_listele.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.yönetici.resources
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.csproj.GenerateResource.cache
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.exe
+C:\Users\Büşra\Desktop\2.Sınıf Dersleri\NYP-Sipariş Otomasyonu\NYP-Sipariş Otomasyonu\bir_kez_daha\obj\Debug\bir_kez_daha.pdb
